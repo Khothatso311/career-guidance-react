@@ -6,7 +6,7 @@ This project is a  career guidance website developed using **ReactJS** for front
 
 ### Features
 
-#### Admin Module
+#### Admin side
 - **Login:** Secure access for administrators.
 - **Institution Management:** Add and delete higher learning institutions.
 - **Faculty Management:** Add faculties to institutions.
@@ -14,7 +14,7 @@ This project is a  career guidance website developed using **ReactJS** for front
 - **Admission Publishing:** Publish and manage admissions for institutions.
 - **Profile Management:** View and update administrator profiles.
 
-#### Institute Module
+#### Institute side
 - **Login:** Secure access for institutions.
 - **Registration:** Email verification for new institutions.
 - **Faculty and Course Management:** Add faculties and courses.
@@ -22,7 +22,7 @@ This project is a  career guidance website developed using **ReactJS** for front
 - **Admission Publishing:** Publish admissions for prospective students.
 - **Profile Management:** View and update institutional profiles.
 
-#### Student Module
+#### Student side
 - **Login:** Secure access for students.
 - **Registration:** Email verification for new students.
 - **Application Submission:** Apply for courses in various institutions.
